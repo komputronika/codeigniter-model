@@ -1,0 +1,20 @@
+{
+    "name": "komputronika/codeigniter-model",
+    "description": "CodeIniter MY_Model using ORM library from yidas/codeigniter-model",
+    "keywords": [
+        "codeigniter",
+        "model",
+        "orm"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Komputronika",
+            "homepage": "https://github.com/komputronika/codeigniter-model"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "yidas/codeigniter-model": ">=2.11.0"
+    }
+}
