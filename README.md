@@ -1,1 +1,1 @@
-# codeigniter-model
+# Codeigniter Model

@@ -1,6 +1,6 @@
 {
     "name": "komputronika/codeigniter-model",
-    "description": "CodeIniter MY_Model using ORM library from yidas/codeigniter-model",
+    "description": "CodeIgniter MY_Model using ORM library from yidas/codeigniter-model",
     "keywords": [
         "codeigniter",
         "model",
@@ -14,7 +14,6 @@
         }
     ],
     "require": {
-        "php": ">=5.4.0",
         "yidas/codeigniter-model": ">=2.11.0"
     }
 }
